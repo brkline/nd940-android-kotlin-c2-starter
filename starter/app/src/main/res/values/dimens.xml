@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_asteroid_default_padding">16dp</dimen>
+    <dimen name="fragment_main_default_padding">16dp</dimen>
+    <dimen name="fragment_main_textView_text_size">20sp</dimen>
+    <dimen name="fragment_detail_default_padding">16dp</dimen>
+</resources>
