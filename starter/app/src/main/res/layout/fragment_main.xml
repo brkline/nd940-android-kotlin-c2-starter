@@ -41,7 +41,7 @@
                 android:layout_gravity="bottom"
                 android:background="#55010613"
                 android:padding="@dimen/fragment_main_default_padding"
-                android:text="@string/image_of_the_day"
+                android:text="@{viewModel.image.title}"
                 android:textColor="@android:color/white"
                 android:textSize="@dimen/fragment_main_textView_text_size"
                 android:textStyle="bold" />
